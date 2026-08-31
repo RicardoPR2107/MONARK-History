@@ -66,7 +66,3 @@ python verificador_cuentas.py
 
 - [Holehe](https://github.com/megadose/holehe) de Megadose — motor de verificación OSINT.
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) — librería de interfaz gráfica.
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
