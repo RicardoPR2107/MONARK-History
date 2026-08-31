@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+
+# Archivos de resultados generados por Holehe
+holehe_*_results.csv
+*.csv
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno / secretos (por si en el futuro se agregan)
+.env
