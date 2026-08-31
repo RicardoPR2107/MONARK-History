@@ -25,7 +25,7 @@ Esta herramienta está pensada para que **verifiques tus propios correos** (por 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/verificador-cuentas-osint.git
+git clone https://github.com/RicardoPR2107/MONARK-History.git
 cd verificador-cuentas-osint
 
 # 2. Crear un entorno virtual
